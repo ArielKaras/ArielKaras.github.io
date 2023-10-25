@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/User-IP-Viewer/User-IP-Viewer-header.png
 title: "User-IP-Viewer"
-date: [YOUR DATE HERE]
+date: 2023
 published: true
 labels:
   - React
