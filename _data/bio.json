@@ -1,0 +1,174 @@
+{
+    "basics": {
+        "name": "Ariel Karas",
+        "label": "Junior S.R.E DevOps Engineer",
+        "picture": "https://github.com/ArielKaras.png",
+        "email": "ariel1434@gmail.com",
+        "phone": "972+ 584700739",
+        "website": "https://ArielKaras.github.io",
+        "summary": "Dedicated and highly motivated Junior DevOps Engineer with hands-on experience in building and maintaining CI/CD pipelines, infrastructure automation, and container orchestration. Seeking to leverage my skills to contribute to a forward-thinking organization that fosters innovation and growth.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Givatayim",
+            "countryCode": "",
+            "region": "Israel"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "ArielKaras",
+                "url": "https://github.com/ArielKaras"
+            },
+            {
+                "network": "linkedin",
+                "username": "ariel-karas",
+                "url": "https://www.linkedin.com/in/ariel-karas/"
+            }
+        ]
+    },
+    "interests": [
+        {
+            "name": "Automation"
+        },
+        {
+            "name": "Educational Technology"
+        },
+        {
+            "name": "Robotics"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Cloud Platforms",
+            "keywords": [
+                "AWS"
+            ]
+        },
+        {
+            "name": "Containers",
+            "keywords": [
+                "Docker",
+                "Kubernetes"
+            ]
+        },
+        {
+            "name": "CI/CD",
+            "keywords": [
+                "Jenkins",
+                "GitHub Actions"
+            ]
+        },
+        {
+            "name": "Infrastructure as Code",
+            "keywords": [
+                "Terraform",
+                "Ansible"
+            ]
+        },
+        {
+            "name": "Scripting",
+            "keywords": [
+                "Python",
+                "Bash"
+            ]
+        },
+        {
+            "name": "Version Control",
+            "keywords": [
+                "Git"
+            ]
+        },
+        {
+            "name": "Monitoring Tools",
+            "keywords": [
+                "OpenSearch",
+                "Grafana"
+            ]
+        },
+        {
+            "name": "Databases",
+            "keywords": [
+                "MySQL",
+                "DynamoDB"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "iNT college-institute of innovation & Technology Tel-Aviv, Israel",
+            "area": "SRE DevOps Engineering",
+            "studyType": "Graduation",
+            "endDate": "2023-01",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "ORT College Rehovot, Israel",
+            "area": "Practical Engineering in Electronics",
+            "studyType": "Graduation",
+            "endDate": "2015-06",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "work": [
+        {
+            "company": "Tactivision Service Ltd.",
+            "position": "SRE DevOps Engineer Intern",
+            "website": "",
+            "startDate": "2022-01-01",
+            "endDate": "2023-01-01",
+            "summary": "Worked as an intern while completing the SRE DevOps Engineering course as a help desk-technician while delivering exceptional technical support to customers and maintaining the operation and performance of their equipment.",
+            "highlights": [
+                "Explained technical information in clear terms to non-technical individuals to promote better understanding.",
+                "Installed, modified, and repaired software and hardware to resolve technical issues.",
+                "Configured hardware, devices, and software to set up workstations for employees.",
+                "Responded to support requests from end-users and patiently walked individuals through basic troubleshooting tasks."
+            ]
+        },
+        {
+            "company": "Inbar Solar Energy Ltd.",
+            "position": "Network Technician",
+            "website": "",
+            "startDate": "2020-01-01",
+            "endDate": "2021-01-01",
+            "summary": "Responsible for commissioning and testing in an electrical communication cabinet on PV Plant.",
+            "highlights": [
+                "Characterizing and planning communication cabinets for solar field sites.",
+                "Leading and managing communication teams on site.",
+                "Collaborating with Engineer teams overseas to establish communication cabinets and their technologies. Including Soltec, Meteorcontrol, Huawei, Kaco, and SolarEdge."
+            ]
+        },
+        {
+            "company": "SolarEdge",
+            "position": "Hardware Technician",
+            "website": "",
+            "startDate": "2019-01-01",
+            "endDate": "2020-01-01",
+            "summary": "Part of the R&D team, responsible for developing fast-paced project solutions for stacked projects.",
+            "highlights": [
+                "Testing and maintaining different hardware components by performing diagnoses, investigations, and repairs of faults.",
+                "Keeping detailed documentation throughout all phases of development, testing, and analysis to improve organizational productivity."
+            ]
+        },
+        {
+            "company": "Israel Defense Forces",
+            "position": "Assistant System Engineer & Team Leader",
+            "website": "",
+            "startDate": "2015-01-01",
+            "endDate": "2019-01-01",
+            "summary": "Served as an Assistant System Engineer and Team Leader at the R&D Robotics and Autonomy Department.",
+            "highlights": [
+                "Contributing to the development and maintenance of systems that supported the integrity and operations of combat engineering units.",
+                "Installing, modifying, and repairing hardware and software to resolve technical issues.",
+                "Quickly resolving problems and escalating critical issues to knowledgeable support for quality resolution."
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request"
+        }
+    ]
+}
